@@ -171,20 +171,14 @@
   "ast": {
     "absolutePath": "/media/eman-herawy/06a83b1f-0bf4-4872-8ba9-a878bd1ab3251/home/eherrawy/LocalD/work/gitcoin/true-news/NewsLimited/contract-with-truffle/contracts/NewsLimited.sol",
     "exportedSymbols": {
-      "NewsLimited": [
-        378
-      ]
+      "NewsLimited": [378]
     },
     "id": 379,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 168,
-        "literals": [
-          "solidity",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:22:3"
       },
@@ -227,9 +221,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 378,
-        "linearizedBaseContracts": [
-          378
-        ],
+        "linearizedBaseContracts": [378],
         "name": "NewsLimited",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -819,10 +811,7 @@
                       "id": 215,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1074,
-                        1075
-                      ],
+                      "overloadedDeclarations": [1074, 1075],
                       "referencedDeclaration": 1075,
                       "src": "665:7:3",
                       "typeDescriptions": {
@@ -970,9 +959,7 @@
                   "src": "782:13:3"
                 },
                 {
-                  "assignments": [
-                    234
-                  ],
+                  "assignments": [234],
                   "declarations": [
                     {
                       "constant": false,
@@ -1627,9 +1614,7 @@
               "src": "1229:346:3",
               "statements": [
                 {
-                  "assignments": [
-                    291
-                  ],
+                  "assignments": [291],
                   "declarations": [
                     {
                       "constant": false,
@@ -2334,10 +2319,7 @@
                       "id": 342,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1074,
-                        1075
-                      ],
+                      "overloadedDeclarations": [1074, 1075],
                       "referencedDeclaration": 1075,
                       "src": "1656:7:3",
                       "typeDescriptions": {
@@ -2450,10 +2432,7 @@
                       "id": 350,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1074,
-                        1075
-                      ],
+                      "overloadedDeclarations": [1074, 1075],
                       "referencedDeclaration": 1075,
                       "src": "1719:7:3",
                       "typeDescriptions": {
@@ -2480,9 +2459,7 @@
                   "src": "1719:35:3"
                 },
                 {
-                  "assignments": [
-                    358
-                  ],
+                  "assignments": [358],
                   "declarations": [
                     {
                       "constant": false,
@@ -2845,20 +2822,14 @@
   "legacyAST": {
     "absolutePath": "/media/eman-herawy/06a83b1f-0bf4-4872-8ba9-a878bd1ab3251/home/eherrawy/LocalD/work/gitcoin/true-news/NewsLimited/contract-with-truffle/contracts/NewsLimited.sol",
     "exportedSymbols": {
-      "NewsLimited": [
-        378
-      ]
+      "NewsLimited": [378]
     },
     "id": 379,
     "nodeType": "SourceUnit",
     "nodes": [
       {
         "id": 168,
-        "literals": [
-          "solidity",
-          "0.5",
-          ".0"
-        ],
+        "literals": ["solidity", "0.5", ".0"],
         "nodeType": "PragmaDirective",
         "src": "0:22:3"
       },
@@ -2901,9 +2872,7 @@
         "documentation": null,
         "fullyImplemented": true,
         "id": 378,
-        "linearizedBaseContracts": [
-          378
-        ],
+        "linearizedBaseContracts": [378],
         "name": "NewsLimited",
         "nodeType": "ContractDefinition",
         "nodes": [
@@ -3493,10 +3462,7 @@
                       "id": 215,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1074,
-                        1075
-                      ],
+                      "overloadedDeclarations": [1074, 1075],
                       "referencedDeclaration": 1075,
                       "src": "665:7:3",
                       "typeDescriptions": {
@@ -3644,9 +3610,7 @@
                   "src": "782:13:3"
                 },
                 {
-                  "assignments": [
-                    234
-                  ],
+                  "assignments": [234],
                   "declarations": [
                     {
                       "constant": false,
@@ -4301,9 +4265,7 @@
               "src": "1229:346:3",
               "statements": [
                 {
-                  "assignments": [
-                    291
-                  ],
+                  "assignments": [291],
                   "declarations": [
                     {
                       "constant": false,
@@ -5008,10 +4970,7 @@
                       "id": 342,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1074,
-                        1075
-                      ],
+                      "overloadedDeclarations": [1074, 1075],
                       "referencedDeclaration": 1075,
                       "src": "1656:7:3",
                       "typeDescriptions": {
@@ -5124,10 +5083,7 @@
                       "id": 350,
                       "name": "require",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        1074,
-                        1075
-                      ],
+                      "overloadedDeclarations": [1074, 1075],
                       "referencedDeclaration": 1075,
                       "src": "1719:7:3",
                       "typeDescriptions": {
@@ -5154,9 +5110,7 @@
                   "src": "1719:35:3"
                 },
                 {
-                  "assignments": [
-                    358
-                  ],
+                  "assignments": [358],
                   "declarations": [
                     {
                       "constant": false,
@@ -5524,14 +5478,8 @@
     "3": {
       "events": {},
       "links": {},
-      "address": "0x9d44525cea3bbabe3609257dd26ee16ed5785dd0",
-      "transactionHash": "0x4acb849585d15a384523cd4eadbe92b32a6300ed0e3101d3895a84012047904f"
-    },
-    "1562801171785": {
-      "events": {},
-      "links": {},
-      "address": "0x56Af2213b22C1984B57aCd5A2C59b62e7b61FFBA",
-      "transactionHash": "0xdf0abe66b66c0dc8c8c10587cc3173f277fb0e087593fe9e339e8ee552f438c0"
+      "address": "0xc22618bedff666938f85302d835fc31501d14c96",
+      "transactionHash": "0x9aa34a9c4fa9153eeeac89c7e1298626be26b33005a4a4c9a257e94f2da03ccf"
     }
   },
   "schemaVersion": "3.0.0",
